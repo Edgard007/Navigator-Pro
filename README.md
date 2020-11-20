@@ -6,3 +6,6 @@ The intention of carrying out this project is to acquire more knowledge about Re
 Project created by:
 -- Francisco Edgardo Hernández Palacios
 linkedIn: https://www.linkedin.com/in/francisco-edgardo-hern%C3%A1ndez-palacios/
+
+Link project
+https://expo.io/@edgard0_07/projects/navigatorpro
