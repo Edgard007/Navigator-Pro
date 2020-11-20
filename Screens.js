@@ -18,6 +18,7 @@ import fitness from './assets/Icons/fitness.png';
 import education from './assets/Icons/education.png';
 import products from './assets/Icons/products.png';
 import contact from './assets/Icons/contact.png';
+import splash from './assets/Icons/splash.gif';
 
 const styles = StyleSheet.create({
   img: {
@@ -150,7 +151,7 @@ export function ContactScreen({ navigation }) {
   return (
     <Screen
       backgroundColor={colors[6]}
-      label={'Contact'}
+      label={'Programmer'}
       image={contact}
       navigation={navigation}
       description={descrition}

@@ -1,12 +1,12 @@
 {
   "expo": {
-    "name": "Navigator Pro",
-    "slug": "Navigator Pro",
+    "name": "Beautiful navigator",
+    "slug": "navigatorpro",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "splash": {
-      "image": "./assets/splash.gif",
+      "image": "./assets/splash2.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
